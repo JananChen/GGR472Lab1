@@ -3,7 +3,7 @@ This repository contains code for GGR 472 lab 1 web pages in html, and data incl
 
 Link: https://jananchen.github.io/GGR472Lab1/
 
-##Key Repository Contents
+## Key Repository Contents
 
 - 'index.html': HTML to render the main web page
 - 'guide.html': HTML to render the GeoJSON guide
